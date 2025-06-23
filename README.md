@@ -90,7 +90,7 @@ src/
 3. **Configure as credenciais no `application.properties`:**
    ```properties
    spring.datasource.username=root
-   spring.datasource.password=20401359
+   spring.datasource.password=
    ```
 
 ### Executando a Aplicação
@@ -224,7 +224,7 @@ mvn test
    GET {{baseUrl}}/tarefas
    ```
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 ### Padrões Utilizados
 - **MVC (Model-View-Controller)**
@@ -240,20 +240,20 @@ mvn test
 4. **Model:** Representa entidades do banco de dados
 5. **DTO:** Objetos de transferência de dados
 
-## 🔒 Validações
+## Validações
 
 - **Nome:** Obrigatório, não pode estar vazio
 - **Data de Entrega:** Obrigatória, formato YYYY-MM-DD
 - **Responsável:** Obrigatório, não pode estar vazio
 
-## 📊 Logs
+## Logs
 
 A aplicação utiliza logging estruturado com diferentes níveis:
 - **DEBUG:** Informações detalhadas de desenvolvimento
 - **INFO:** Informações gerais da aplicação
 - **ERROR:** Erros e exceções
 
-## 🚀 Deploy
+## Deploy
 
 ### Build para Produção
 ```bash
