@@ -1,0 +1,10 @@
+com/ivanhoinacki/tarefa/dto/TarefaResponse.class
+com/ivanhoinacki/tarefa/TarefaApplication.class
+com/ivanhoinacki/tarefa/service/TarefaService.class
+com/ivanhoinacki/tarefa/dto/TarefaRequest.class
+com/ivanhoinacki/tarefa/repository/TarefaRepository.class
+com/ivanhoinacki/tarefa/controller/TarefaController.class
+com/ivanhoinacki/tarefa/exception/GlobalExceptionHandler.class
+com/ivanhoinacki/tarefa/exception/TarefaNotFoundException.class
+com/ivanhoinacki/tarefa/model/Tarefa.class
+com/ivanhoinacki/tarefa/exception/GlobalExceptionHandler$ErrorResponse.class

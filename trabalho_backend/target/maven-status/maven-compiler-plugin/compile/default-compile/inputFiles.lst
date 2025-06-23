@@ -1,0 +1,9 @@
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/dto/TarefaResponse.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/exception/GlobalExceptionHandler.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/service/TarefaService.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/controller/TarefaController.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/dto/TarefaRequest.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/repository/TarefaRepository.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/TarefaApplication.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/model/Tarefa.java
+/Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/trabalho_backend/src/main/java/com/ivanhoinacki/tarefa/exception/TarefaNotFoundException.java

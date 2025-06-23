@@ -1,0 +1,42 @@
+!SESSION 2025-06-23 09:09:24.097 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:09:27.271
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:10:04.640
+!MESSAGE Logback config file: /Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-06-23 09:39:33.664 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:39:34.902
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:39:36.549
+!MESSAGE Logback config file: /Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-06-23 09:41:21.058 -----------------------------------------------
+eclipse.buildId=4.36.0.20250605-1300
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/ivanhoinacki/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:41:22.647
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-06-23 09:41:23.582
+!MESSAGE Logback config file: /Users/ivanhoinacki/Desktop/Graduação/Backend/eclipse/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-06-23 09:50:11.898
+!MESSAGE Project trabalho_backend already exists
