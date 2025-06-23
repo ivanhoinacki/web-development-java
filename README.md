@@ -1,6 +1,6 @@
 # 📋 API de Gerenciamento de Tarefas
 
-**Desenvolvido por:** Ivan Augusto Hoinacki - RU 4620954
+**Desenvolvido por:** Ivan Augusto Hoinacki - RU ******
 
 ## Descrição
 
